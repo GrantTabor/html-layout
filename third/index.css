@@ -1,0 +1,29 @@
+header{
+    background-color: lightgray;
+    padding: 10px;
+}
+header div{
+    background-color: blue;
+    height: 75px;
+    width: 75px;
+}
+section{
+    padding: 20px;
+    font-size: 15pt;
+    
+}
+div{
+    height: 100px;
+}
+.bluebar{
+    background-color: lightblue;
+}
+.aquabar{
+    background-color: aqua;
+}
+.greenbar{
+    background-color: greenyellow;
+}
+.yellowbar{
+    background-color: yellow;
+}

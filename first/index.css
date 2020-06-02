@@ -1,0 +1,29 @@
+header{
+    background-color: grey;
+    height: 150px;
+    margin: 0px;
+}
+
+section{
+    height: 600px;
+    background-color: lightgray;
+    text-align: center;
+}
+section.middle{
+    background-color: white;
+    width: 800px;
+    display: inline-block;
+    margin: 0px;
+}
+section div{
+    background-color: white;
+    width: 800px;
+    display: inline-block;
+    height:496px
+    
+}
+footer{
+    background-color: black;
+    height: 100px;
+    margin: 0px;
+}

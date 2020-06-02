@@ -1,0 +1,56 @@
+.firstbox{
+    outline: black;
+    outline: 5px;
+    outline-style: solid;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.Purplebox{
+    height: 50px;
+    width: 20px;
+    background-color: purple;
+    display: inline-block;
+    margin-right: 20px;
+}
+.greenbox{
+    height: 100px;
+    width: 150px;
+    background-color: green;
+    display: inline-block;
+    margin-right: 20px;
+}
+.circle{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: cyan;
+    display: inline-block;
+}
+.secondbox{
+    outline-style: dotted;
+    outline-color: black;
+    padding: 50px;
+    margin-bottom: 30px;
+}
+.yellowbox{
+    height: 200px;
+    background-color: beige;
+    box-shadow: 10px 10px 10px black;
+   
+}
+.thirdbox{
+    width: 50%;
+    outline-color: gray;
+    outline-style: solid;
+    outline-width: 1px;
+    margin: auto;
+    box-shadow: 5px 5px 5px gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.thirdbox p{
+    text-align: center;
+    font-size: 30pt;
+    color: blue;
+    letter-spacing: 5px;
+}
